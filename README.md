@@ -16,16 +16,16 @@ This project is a Python-based Banking System that follows Object-Oriented Progr
 - Object-Oriented Programming (OOP) Concepts
 
 # Installation & Usage
-1. Clone the Repository**
+1. Clone the Repository
    ```bash
    git clone https://github.com/yourusername/banking-system.git
    cd banking-system
    ```
-2. Run the Program**
+2. Run the Program
    ```bash
    python Shashank_Project.py
    ```
-3. Follow the Menu Options**
+3. Follow the Menu Options
    - Create a new account
    - Login to an existing account
    - Perform transactions
